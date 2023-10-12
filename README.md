@@ -2,6 +2,5 @@
 CV BUILDER-
 Technologies:
 PHP CORE
-MYSQL
 HTML5
 CSS3
